@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\CleanArchitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5E1101-1D85-43DE-B714-2E0380026CAC}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|d:\\projects\\cleanarchitecture\\cleanarchitecture.infra\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5E1101-1D85-43DE-B714-2E0380026CAC}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|solutionrelative:cleanarchitecture.infra\\configureservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B708F568-A5F0-462F-B64C-7D03871E68C9}|CleanArchitecture.API\\CleanArchitecture.API.csproj|d:\\projects\\cleanarchitecture\\cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B708F568-A5F0-462F-B64C-7D03871E68C9}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B72FDFBE-DAA2-49A6-9A08-1B698B7ECD43}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|d:\\projects\\cleanarchitecture\\cleanarchitecture.application\\blogs\\commands\\createblog\\createblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B72FDFBE-DAA2-49A6-9A08-1B698B7ECD43}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\blogs\\commands\\createblog\\createblogcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5E1101-1D85-43DE-B714-2E0380026CAC}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|d:\\projects\\cleanarchitecture\\cleanarchitecture.infra\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5E1101-1D85-43DE-B714-2E0380026CAC}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|solutionrelative:cleanarchitecture.infra\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D5E1101-1D85-43DE-B714-2E0380026CAC}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|d:\\projects\\cleanarchitecture\\cleanarchitecture.infra\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D5E1101-1D85-43DE-B714-2E0380026CAC}|CleanArchitecture.Infra\\CleanArchitecture.Infra.csproj|solutionrelative:cleanarchitecture.infra\\data\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infra\\Data\\BlogDbContext.cs",
+              "ToolTip": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Infra\\Data\\BlogDbContext.cs",
+              "RelativeToolTip": "CleanArchitecture.Infra\\Data\\BlogDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:02:38.074Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ConfigureServices.cs",
+              "DocumentMoniker": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Infra\\ConfigureServices.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infra\\ConfigureServices.cs",
+              "ToolTip": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Infra\\ConfigureServices.cs",
+              "RelativeToolTip": "CleanArchitecture.Infra\\ConfigureServices.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:12:36.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.API\\Program.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\Program.cs",
+              "ToolTip": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.API\\Program.cs",
+              "RelativeToolTip": "CleanArchitecture.API\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:12:15.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Infra\\Repository\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Infra\\Repository\\BlogRepository.cs",
+              "ToolTip": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Infra\\Repository\\BlogRepository.cs",
+              "RelativeToolTip": "CleanArchitecture.Infra\\Repository\\BlogRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:10:44.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateBlogCommandHandler.cs",
+              "DocumentMoniker": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "ToolTip": "D:\\Projects\\CleanArchitecture\\CleanArchitecture.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Blogs\\Commands\\CreateBlog\\CreateBlogCommandHandler.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T04:10:39.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿-- Create the database
+CREATE DATABASE CleanArchitecture;
+GO
+
+-- Use the new database
+USE CleanArchitecture;
+GO
+
+-- Create the Blog table
+CREATE TABLE Blog (
+    Id INT IDENTITY(1,1) PRIMARY KEY,
+    Name NVARCHAR(255) NOT NULL,
+    Description NVARCHAR(MAX),
+    Author NVARCHAR(255)
+);
